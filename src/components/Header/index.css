@@ -1,0 +1,21 @@
+.header{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 90px;
+    width: 100%;
+    margin-bottom: 20px;
+}
+.header-title {
+    width: 500px;
+    position: relative;
+}
+.header-title span {
+    color: aliceblue;
+    position: absolute;
+    font-size: 34px;
+    font-weight: 400;
+    top: 5px;
+    width: 100%;
+    text-align: center;
+}
